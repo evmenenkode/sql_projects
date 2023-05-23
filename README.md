@@ -1,2 +1,2 @@
 # sql_projects
-My projects from SQL 
+My projects from SQL and Python
